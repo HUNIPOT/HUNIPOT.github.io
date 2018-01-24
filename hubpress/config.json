@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "HUNIPOT": "put your username here",
+    "HUNIPOT.github.io": "put your repository name here",
     "branch": "master"
   },
   "theme": {
