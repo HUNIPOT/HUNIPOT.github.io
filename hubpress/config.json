@@ -2,10 +2,11 @@
   "meta": {
     "username": "hunipot",
     "repositoryName": "hunipot.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://hunipot.github.io",
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "AF",
+    "description": "About Anti Femi",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
